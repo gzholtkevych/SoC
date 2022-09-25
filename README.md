@@ -17,6 +17,8 @@ Authors:
 
 **README.md**  is this file
 
+**.gitignore** is the file that contains the specification of untracked files for Git
+
 *LaTeX* is the directory that contains sketches of project outcomes formatted as tex-files </br>
 > **main.tex** is the file that contains the preamble and the references to the current content formatted as unnumbered sections </br>
 > **motivation.tex** </br>
