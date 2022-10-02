@@ -27,5 +27,5 @@ Authors:
 *Coq* is the directory that contains Coq-script files of the project </br>
 > **_CoqProject** is the file that contains project configuration data for ***coqide*** </br>
 > *Auxiliaries* is a directory that contains definitions and facts that are used in the project but are auxiliary
-> > **Definitions.v** </br>
+> > **Concepts.v** </br>
 > > **Facts.v**
