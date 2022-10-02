@@ -17,15 +17,15 @@ Authors:
 
 **README.md**  is this file
 
-**.gitignore** is the file that contains the specification of untracked files for Git
+**.gitignore** contains the specification of untracked files for Git
 
-*LaTeX* is the directory that contains sketches of project outcomes formatted as tex-files </br>
-> **main.tex** is the file that contains the preamble and the references to the current content formatted as unnumbered sections </br>
+*LaTeX* is the directory containing sketches of project outcomes formatted as tex-files </br>
+> **main.tex** contains the preamble and the references to the current content formatted as unnumbered sections </br>
 > **motivation.tex** </br>
-> **references.bib** is the file that contains bibliography database of the project
+> **references.bib** contains bibliography database of the project
 
-*Coq* is the directory that contains Coq-script files of the project </br>
-> **_CoqProject** is the file that contains project configuration data for ***coqide*** </br>
-> *Auxiliaries* is a directory that contains definitions and facts that are used in the project but are auxiliary
+*Coq* is the directory containing Coq-script files of the project </br>
+> **_CoqProject** contains project configuration data for ***coqide*** </br>
+> *Auxiliaries* is the directory containing auxiliary definitions and facts used in the project
 > > **Concepts.v** </br>
 > > **Facts.v**
