@@ -1,8 +1,5 @@
-/LaTeX/*
-
-!/LaTeX/*.tex
-!/LaTeX/references.bib
-
-/Coq/**/*
-!/Coq/_CoqProject
-!/Coq/**/*.v
+/Coq/**/*.aux
+/Coq/**/*.glob
+/Coq/**/*.vo
+/Coq/**/*.vok
+/Coq/**/*.vos
