@@ -1,0 +1,5 @@
+-R . SoC
+-arg -w
+-arg all
+/Auxiliaries/Concepts.v
+/Auxiliaries/Facts.v

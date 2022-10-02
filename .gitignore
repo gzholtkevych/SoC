@@ -1,11 +1,8 @@
-# ignore all files in all directories
-*
-
-!/.gitignore
-!/README.md
+/LaTeX/*
 
 !/LaTeX/*.tex
 !/LaTeX/references.bib
 
+/Coq/**/*
 !/Coq/_CoqProject
 !/Coq/**/*.v
