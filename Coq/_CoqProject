@@ -3,3 +3,5 @@
 -arg all
 Relations.v
 Concepts.v
+Examples.v
+BasicFacts.v

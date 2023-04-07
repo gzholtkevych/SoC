@@ -30,6 +30,8 @@ Variables (X : Set) (R : relation X).
   }.
 
 End RelationClasses.
+Arguments StrictOrder {X}.
+Arguments Equivalence {X}.
 
 Section RelationImages.
 Variables (X : Set) (R : relation X).
